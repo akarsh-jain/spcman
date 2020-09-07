@@ -1,0 +1,2 @@
+# spcman
+SPCMAN in C
